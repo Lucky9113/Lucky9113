@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I’m Lakshay 👋
 
-<!--
-**Lucky9113/Lucky9113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- AI/ML undergrad at VIT (2022–26)  
+- I build small, useful projects: Fintrack, PDF summarizer, Llama 3.2 tests, Receipt reader  
+- Interests: LLM fine‑tuning, data engineering, SQL, Microsoft data stack  
 
-Here are some ideas to get you started:
+## Projects
+- Fintrack — personal finance tracker  
+- PDF Summarizer — extract and condense PDFs  
+- Llama‑3.2 testing — experiments with Transformers  
+- Receipt reader — document parsing pipeline  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+Python • Transformers • FastAPI/Streamlit • SQL • GitHub Actions • Docker
+
+## Links
+- LinkedIn: in/lakshay-menghani-6a285a142  
+- Email: lakshaymenghani@gmail.com
