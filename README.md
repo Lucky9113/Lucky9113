@@ -2,6 +2,7 @@
 
 A proactive and hands-on AI/ML undergraduate with a demonstrated passion for cybersecurity. I build practical, security-focused projects *and* intelligent data applications, bridging the gap between academic knowledge and real-world challenges in vulnerability management, security automation, and applied AI.
 
+[http://192.168.1.1](http://192.168.1.1)
 - 📧 **Email:** [lakshaymenghani@gmail.com](mailto:lakshaymenghani@gmail.com)
 - 🔗 **LinkedIn:** [in/lakshay-menghani-6a285a142](https://www.linkedin.com/in/lakshay-menghani-6a285a142)
 
